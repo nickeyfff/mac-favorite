@@ -12,5 +12,5 @@
 2. vimri
 
 ## 工具类
-1.proxifier
+1. proxifier
    本地程序代理.
