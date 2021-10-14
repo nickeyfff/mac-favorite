@@ -18,6 +18,21 @@
 2. MonitorControl
 
    外接显示器亮度控制.
+3. Microsoft Remote Desktop
+   
+   微软的远程桌面. 超级好用.
+4. keka
+   
+   解压缩工具,从官网下,免费.
+5. OmniDiskSweeper
+
+   快速对磁盘的所有文件夹扫描. 主要是找占用空间大的文件.
+6. AppCleaner
+
+   清理app的工具,小巧好用.
+7. IINA
+
+   用brew安装,  估计是mac上最好用的视频播放器了.
    
 ## 开发类
 1. apple remote desktop
