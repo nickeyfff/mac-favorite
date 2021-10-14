@@ -13,4 +13,8 @@
 
 ## 工具类
 1. proxifier
+
    本地程序代理.
+2. MonitorControl
+
+   外接显示器亮度控制.
